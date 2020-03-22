@@ -1,2 +1,3 @@
-# UICollecitonView-Selection
-Single and multiple selection for UICollectionView
+# UICollecitonView Selection
+
+UICollectionView with single and multiple selection in iOS
